@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>ASHR.Wordpass.Domain.Api</AssemblyName>
+    <RootNamespace>ASHR.Wordpass.Domain.Api</RootNamespace>
+  </PropertyGroup>
+
+</Project>

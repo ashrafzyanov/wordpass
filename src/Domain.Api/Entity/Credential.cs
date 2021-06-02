@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ASHR.Wordpass.Domain.Api.Entity
+{
+    public class Credential
+    {
+        public Guid Id { get; set; }
+    }
+}

@@ -1,0 +1,1 @@
+# Wordpass project. Goas - one point of password management
